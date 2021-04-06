@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 // Marshal marshals the object into JSON then converts JSON to YAML and returns the

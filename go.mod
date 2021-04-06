@@ -1,4 +1,4 @@
-module sigs.k8s.io/yaml
+module github.com/lander2k2/yaml
 
 go 1.12
 
